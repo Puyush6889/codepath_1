@@ -1,0 +1,44 @@
+p {
+    padding-left: 20px;
+    font-size: 16px;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: lightyellow;
+}
+
+#textbox {
+    width: 80px;
+    font-size: 14px;
+}
+
+#container {
+    width: 250px;
+    background-color: white;
+    border: 1px solid black;
+    display: block;
+    margin: auto;
+    position: relative;
+}
+
+#submit {
+    margin: auto;
+    position: relative;
+    display: block;
+}
+
+#result {
+    width: 80%;
+    height: 80px;
+    border: 1px solid blue;
+    position: relative;
+    margin: auto;
+    margin-bottom: 10px;
+    color: blue;
+    font-weight: bold;
+}
