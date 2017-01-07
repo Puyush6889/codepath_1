@@ -34,7 +34,7 @@ GIF created with [EzGif](http://ezgif.com/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+took a little while to get running and understand the structure of php
 
 ## License
 
